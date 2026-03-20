@@ -1,0 +1,10 @@
+# Core dependencies (minimal - mostly stdlib)
+# No external dependencies required for core functionality
+
+# Development dependencies (optional)
+# Uncomment for development:
+# pytest>=7.0
+# pytest-cov>=4.0
+# black>=23.0
+# mypy>=1.0
+# flake8>=6.0
